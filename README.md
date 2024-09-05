@@ -4,14 +4,10 @@
 I'm currently working on some exciting projects. I love simplifying complex ideas through clean code and efficient design.
 
 ☕ **Coding & Coffee** make my day productive!  
-![3D Developer](https://example.com/3d-developer-image.jpg)
-
 💬 Ask me about **HTML, CSS, JavaScript, React, AI Tools**  
-![3D Developer](https://example.com/3d-developer-image.jpg)
-
 👨‍💻 [Check out my Portfolio](#)  
 📫 Reach me at **chandan@gmail.com**  
-![3D Developer](https://example.com/3d-developer-image.jpg)
+
 
 ⚡ **Fun Fact:** I make things simple.
 
