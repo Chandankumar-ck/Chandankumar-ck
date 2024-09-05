@@ -1,9 +1,9 @@
 # Hi there 👋, I'm Chandan Kumar Malik [Front-end Developer]
-
+                                                                                           
 ## ✨ About Me:
 I'm currently working on some exciting projects. I love simplifying complex ideas through clean code and efficient design.
-
-☕ **Coding & Coffee** make my day productive!  
+                                                                                
+☕ **Coding & music** make my day productive!  
 💬 Ask me about **HTML, CSS, JavaScript, React, AI Tools**  
 👨‍💻 [Check out my Portfolio](#)  
 📫 Reach me at **chandankumarchandan.1111@gmail.com**  
@@ -35,3 +35,5 @@ I'm currently working on some exciting projects. I love simplifying complex idea
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chandankumar-ck&layout=compact&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Chandankumar-ck&theme=radical)
+
+                                                               Thank you for vising my Profile 😊
