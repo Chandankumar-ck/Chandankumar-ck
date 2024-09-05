@@ -6,7 +6,7 @@ I'm currently working on some exciting projects. I love simplifying complex idea
 ☕ **Coding & Coffee** make my day productive!  
 💬 Ask me about **HTML, CSS, JavaScript, React, AI Tools**  
 👨‍💻 [Check out my Portfolio](#)  
-📫 Reach me at **chandan@gmail.com**  
+📫 Reach me at **chandankumarchandan.1111@gmail.com**  
 
 
 ⚡ **Fun Fact:** I make things simple.
