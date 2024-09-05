@@ -3,11 +3,15 @@
 ## ✨ About Me:
 I'm currently working on some exciting projects. I love simplifying complex ideas through clean code and efficient design.
 
-☕ **Coding & Chai ** make my day productive!  
+☕ **Coding & Coffee** make my day productive!  
+![3D Developer](https://example.com/3d-developer-image.jpg)
 
 💬 Ask me about **HTML, CSS, JavaScript, React, AI Tools**  
+![3D Developer](https://example.com/3d-developer-image.jpg)
+
 👨‍💻 [Check out my Portfolio](#)  
 📫 Reach me at **chandan@gmail.com**  
+![3D Developer](https://example.com/3d-developer-image.jpg)
 
 ⚡ **Fun Fact:** I make things simple.
 
@@ -35,4 +39,3 @@ I'm currently working on some exciting projects. I love simplifying complex idea
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chandankumar-ck&layout=compact&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Chandankumar-ck&theme=radical)
-
