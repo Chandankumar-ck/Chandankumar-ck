@@ -2,6 +2,7 @@
                                                                                            
 ## ✨ About Me:
 I'm currently working on some exciting projects. I love simplifying complex ideas through clean code and efficient design.
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
                                                                                 
 ☕ **Coding & music** make my day productive!  
 💬 Ask me about **HTML, CSS, JavaScript, React, AI Tools**  
