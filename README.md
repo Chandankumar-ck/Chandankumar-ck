@@ -1,7 +1,8 @@
 # Hi there 👋, I'm Chandan Kumar Malik [Front-end Developer]
                                                                                            
 ## ✨ About Me:
-I'm currently working on some exciting projects. I love simplifying complex ideas through clean code and efficient design.
+<h3> I'm currently working on some exciting projects. I love simplifying complex ideas through clean code and efficient design. </h3>
+<be>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
                                                                                 
 ☕ **Coding & music** make my day productive!  
