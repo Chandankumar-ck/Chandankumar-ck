@@ -12,9 +12,10 @@ Hello stranger! My name is Chandan Kumar Malik, and I am a Full-Stack Developer,
 
 <p align="center">
      <a>
-          <img src="https://readme-typing-svg.demolab.com/?lines=Hi!+I+am+Chandan+Kumar+Malik;I+am+a+Full+Stack+Web+Developer;Interested+in+Coding!&font=Poppins&center=true&width=440&height=45&color=%23FF7F50,%23FF5733,%23C70039&vCenter=true&size=22&pause=1000">
+          <img src="https://readme-typing-svg.demolab.com/?lines=Hi!+I+am+Chandan+Kumar+Malik;Full+Stack+Developer💻;Interested+in+Coding👨‍💻;Curious+to+Learn+New+Things📚;&font=Fira%20Code&center=true&width=440&height=45&color=#20fa07&vCenter=true&size=22&pause=1000">
      </a>
 </p>
+
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
