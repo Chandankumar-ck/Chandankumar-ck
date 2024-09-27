@@ -27,7 +27,7 @@ Hello stranger! My name is Chandan Kumar Malik, and I am a Full-Stack Developer,
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently working on **some exciting projects**  
-- 🌱 I’m currently learning **Advance Fronend**
+- 🌱 I’m currently learning **Advance Frontend**
 - 💬 Ask me about **HTML, CSS, JavaScript, React, Python, TypeScript, AI Tools (for web developer)**  
 - 📫 Reach me at **chandankumarchandan.1111@gmail.com**  
 - 👨‍💻 [Check out my Portfolio](#)  
